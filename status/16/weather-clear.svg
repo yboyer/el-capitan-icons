@@ -69,7 +69,7 @@
      sodipodi:cy="8.0064726"
      sodipodi:cx="8.0064726"
      id="path3765"
-     style="opacity:1;fill:#dfdbd2;fill-opacity:1;stroke:none;color:#000000;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="opacity:1;fill:#EEE;fill-opacity:1;stroke:none;color:#000000;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      sodipodi:type="arc" />
   <path
      inkscape:connector-curvature="0"
@@ -78,6 +78,6 @@
      d="m 3.5560485,13.460583 -0.495,0.495 m 4.95,1.0502 0,1 M 12.95,13.954928 l -0.566,-0.566 m 0.071,-8.8387641 0.495,-0.495 m -9.3341,0.5657 -0.5656,-0.5657 M 1,9.0049641 h 1 m 12,0 h 1 m -7,-6 v -1" />
   <path
      id="path2496-6"
-     style="fill:none;stroke:#dfdbd2;stroke-width:2;stroke-linecap:round;color:#000000;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="fill:none;stroke:#EEE;stroke-width:2;stroke-linecap:round;color:#000000;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="m 3.5560485,12.455655 -0.495,0.495 m 4.95,1.0502 0,1 M 12.95,12.95 12.384,12.384 M 12.455,3.5452 12.95,3.0502 M 3.6159,3.6159 3.0503,3.0502 M 1,8 h 1 m 12,0 h 1 M 8,2 V 1" />
 </svg>
