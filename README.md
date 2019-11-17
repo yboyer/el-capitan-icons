@@ -7,7 +7,7 @@
 ### Installation
 Clone the repo into your `~/.icons` directory and enable it with `gnome-tweak-tools` or `unity-tweak-tool`.
 ```bash
-git clone https://github.com/yboyer/el-capitan-icons '~/.icons/El Capitan - Icons'
+git clone https://github.com/yboyer/el-capitan-icons ~/.icons/El\ Capitan\ -\ Icons
 ```
 
 
